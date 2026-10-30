@@ -11,3 +11,7 @@ These files are **not referenced** by the public feature report, docs, workflows
 Current guide: https://github.com/AiKiAi-stack/amd-comfyui-guide · report: https://aikiai-stack.github.io/amd-comfyui-guide/
 
 Archived directories: 2026-10-18, 2026-10-19-bfs-headswap, 2026-10-20-flux2-klein, 2026-10-20-qwen-uncensored, 2026-10-21-gguf-repeat, 2026-10-21-repairs, 2026-10-22-coverage, 2026-10-22-unload, 2026-10-23-ubuntu, 2026-10-25-report-audit, 2026-10-26-report-polish
+
+## Batch 2: ComfyUI assets
+
+11 unreferenced `ComfyUI/` inputs and outputs were appended in a second batch (source commit `842917c9`), after the assets referenced by the report moved to `evidence/report-assets/` in the guide repository.
